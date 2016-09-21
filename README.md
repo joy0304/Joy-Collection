@@ -4,7 +4,7 @@
 
 | [简书博客](http://www.jianshu.com/users/9c51a213b02e/latest_articles)   | [Joy Blog](https://github.com/Wl201314/Joy-Blog)    | [微博（@Martin_Joy）](http://weibo.com/5419850564/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1)            | [Github](https://github.com/Wl201314)  |[About Me]() |[ 实践清单：收录最佳实践博文]()|
 | ------------- |-------------| -----| -----| -----|-----|
-| ＊＊＊＊＊＊ | ＊＊＊＊＊＊ |＊＊＊＊＊＊＊＊＊＊＊ | ＊＊＊＊＊＊ | ＊＊＊＊＊＊|＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊|
+| ＊＊＊＊＊ | ＊＊＊＊＊ |＊＊＊＊＊＊＊＊＊＊ | ＊＊＊＊＊ | ＊＊＊＊＊|＊＊＊＊＊＊＊＊＊＊＊＊＊＊|
 
 ## iOS
 
@@ -15,6 +15,10 @@
 #### Runtime
 
 ## 译文
+
+* [Using Sleep Analysis in Healthkit with Swift](https://github.com/Wl201314/Joy-Blog/blob/master/Blog/Using%20Sleep%20Analysis%20in%20Healthkit%20with%20Swift.md)
+
+* [A Fancy Animation with StackView](https://github.com/Wl201314/Joy-Blog/blob/master/Blog/A%20Fancy%20Animation%20with%20StackView.md)
 
 
 
