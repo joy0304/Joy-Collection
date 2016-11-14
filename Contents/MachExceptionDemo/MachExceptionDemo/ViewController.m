@@ -16,14 +16,19 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view, typically from a nib.
+    NSLog(@"start crash");
+    //    [self performSelector:@selector(badAccess) withObject:nil afterDelay:1];
+    [self performSelector:@selector(mathMistake) withObject:nil afterDelay:1];
 }
 
-
-- (void)didReceiveMemoryWarning {
-    [super didReceiveMemoryWarning];
-    // Dispose of any resources that can be recreated.
+- (void)badAccess {
+    void (*nfunction)() = NULL;
+    nfunction();
 }
 
+- (void)mathMistake {
+    int a = 24;
+    printf("%d", a/0);
+}
 
 @end

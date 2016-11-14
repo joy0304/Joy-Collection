@@ -13,6 +13,7 @@
 		A83E9B611DD99B4D006293FC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A83E9B5F1DD99B4D006293FC /* Main.storyboard */; };
 		A83E9B631DD99B4D006293FC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A83E9B621DD99B4D006293FC /* Assets.xcassets */; };
 		A83E9B661DD99B4D006293FC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A83E9B641DD99B4D006293FC /* LaunchScreen.storyboard */; };
+		A83E9B6F1DD99BDA006293FC /* ExceptionHandler.m in Sources */ = {isa = PBXBuildFile; fileRef = A83E9B6E1DD99BDA006293FC /* ExceptionHandler.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		A83E9B621DD99B4D006293FC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A83E9B651DD99B4D006293FC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A83E9B671DD99B4D006293FC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A83E9B6D1DD99BDA006293FC /* ExceptionHandler.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ExceptionHandler.h; sourceTree = "<group>"; };
+		A83E9B6E1DD99BDA006293FC /* ExceptionHandler.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ExceptionHandler.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +61,8 @@
 		A83E9B551DD99B4D006293FC /* MachExceptionDemo */ = {
 			isa = PBXGroup;
 			children = (
+				A83E9B6D1DD99BDA006293FC /* ExceptionHandler.h */,
+				A83E9B6E1DD99BDA006293FC /* ExceptionHandler.m */,
 				A83E9B591DD99B4D006293FC /* AppDelegate.h */,
 				A83E9B5A1DD99B4D006293FC /* AppDelegate.m */,
 				A83E9B5C1DD99B4D006293FC /* ViewController.h */,
@@ -152,6 +157,7 @@
 			files = (
 				A83E9B5E1DD99B4D006293FC /* ViewController.m in Sources */,
 				A83E9B5B1DD99B4D006293FC /* AppDelegate.m in Sources */,
+				A83E9B6F1DD99BDA006293FC /* ExceptionHandler.m in Sources */,
 				A83E9B581DD99B4D006293FC /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -271,6 +277,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = MachExceptionDemo/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.handsome.MachExceptionDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -282,6 +289,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = MachExceptionDemo/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.handsome.MachExceptionDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
