@@ -190,7 +190,7 @@ struct segment_command_64 { /* for 64-bit architectures */
 ### Segment & Section
 这里有个命名的问题，如下图所示，`__TEXT`代表的是`Segment`，小写的`__text`代表 `Section`
 
-![](http://i2.buimg.com/4851/d239d642766411de.jpg)
+![](http://i1.piimg.com/567571/e21cb02410cf501e.jpg)
 
 `Section`的数据结构
 
