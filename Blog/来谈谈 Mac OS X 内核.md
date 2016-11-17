@@ -40,11 +40,11 @@ Mach 和 BSD 都有自己职责的分工，那么先说 Mach 都有那些核心�
 * 进程和线程管理：我们平时所用到的 POSIX 线程和 NSThread 都是和 Mach 层线程一一对应的，POSIX 线程是BSD 层对 线程的更高层次抽象
 * 虚拟内存的分配和管理
 * CPU 等物理设备的分配和调度
-* 异常：Mach 在已有的消息传递机制上实现了一种异常处理机制，下面会仔细介绍作为应用层面的开发者，如何来做 Mach 异常捕获，可以利用这个做一些 crash 信息的收集工作，其他 crash 收集文章可以[参考这里](https://github.com/Wl201314/Joy-Blog/blob/master/%E5%AE%9E%E8%B7%B5%E6%B8%85%E5%8D%95%EF%BC%9A%E6%94%B6%E5%BD%95%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5%E5%8D%9A%E6%96%87.md)
+* 异常：Mach 在已有的消息传递机制上实现了一种异常处理机制，下面会仔细介绍作为应用层面的开发者，如何来做 Mach 异常捕获，可以利用这个做一些 crash 信息的收集工作，其他 crash 收集文章可以[参考这里](https://github.com/joy0304/Joy-Blog/blob/master/%E5%AE%9E%E8%B7%B5%E6%B8%85%E5%8D%95%EF%BC%9A%E6%94%B6%E5%BD%95%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5%E5%8D%9A%E6%96%87.md)
 
 如果想要做` mach` 异常捕获，需要注册一个异常端口，这个异常端口会对当前任务的所有线程有效，如果想要针对单个线程，可以通过 `thread_set_exception_ports `注册自己的异常端口，发生异常时，首先会将异常抛给线程的异常端口，然后尝试抛给任务的异常端口，当我们捕获异常时，就可以做一些自己的工作，比如，当前堆栈收集等。
 
-对于如何注册一个异常端口，这里有一个示意图和 [相关代码](https://github.com/Wl201314/Joy-Blog/tree/master/Contents/MachExceptionDemo) 可以参考
+对于如何注册一个异常端口，这里有一个示意图和 [相关代码](https://github.com/joy0304/Joy-Blog/tree/master/Contents/MachExceptionDemo) 可以参考
 
 
 ![](http://p1.bqimg.com/567571/b19be90e6d7d5ab1.jpg)
@@ -56,7 +56,7 @@ Mach 层的服务不足以支撑整个完整的操作系统，在Mach 之上，�
 
 * 进程和线程更多特性：BSD 层的 进程和线程比 Mach 层包含更多的信息，支持更多的特性，Mach 层的进程和线程并不能满足操作系统的高级需求，通过BSD 层 XNU 提供了更为丰富且标准化的 API
 * 网络协议栈
-* 文件系统：在 OS X 中可执行文件格式为 Mach-O，对于 Mach-O 的初级理解，可以先了解下 [趣探 Mach-O：文件格式](https://github.com/Wl201314/Joy-Blog/blob/master/Blog/%E8%B6%A3%E6%8E%A2%20Mach-O%EF%BC%9A%E6%96%87%E4%BB%B6%E6%A0%BC%E5%BC%8F.md)
+* 文件系统：在 OS X 中可执行文件格式为 Mach-O，对于 Mach-O 的初级理解，可以先了解下 [趣探 Mach-O：文件格式](https://github.com/joy0304/Joy-Blog/blob/master/Blog/%E8%B6%A3%E6%8E%A2%20Mach-O%EF%BC%9A%E6%96%87%E4%BB%B6%E6%A0%BC%E5%BC%8F.md)
 * 设备访问
 
 ## libkern + I/O Kit

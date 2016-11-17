@@ -70,7 +70,7 @@ FLOAT、ID(MATCHZERO)、LPAREN、CHAR、ID(S) 、RPAREN   // 大概了解即可�
 
 ## 链接
 
-链接器（这里指的是静态链接器）将多个目标文件合并为一个可执行文件，在 `OS X` 和 `iOS `中的可执行文件是 `Mach-O`，对于`Mach-O`的文件格式可以[参考这里](https://github.com/Wl201314/Joy-Blog/blob/master/Blog/%E8%B6%A3%E6%8E%A2%20Mach-O%EF%BC%9A%E6%96%87%E4%BB%B6%E6%A0%BC%E5%BC%8F.md)，刚才所描述的过程其实可以用 `sunnyxx `的一页  `ppt `来进行总结
+链接器（这里指的是静态链接器）将多个目标文件合并为一个可执行文件，在 `OS X` 和 `iOS `中的可执行文件是 `Mach-O`，对于`Mach-O`的文件格式可以[参考这里](https://github.com/joy0304/Joy-Blog/blob/master/Blog/%E8%B6%A3%E6%8E%A2%20Mach-O%EF%BC%9A%E6%96%87%E4%BB%B6%E6%A0%BC%E5%BC%8F.md)，刚才所描述的过程其实可以用 `sunnyxx `的一页  `ppt `来进行总结
 
 ￼![](http://p1.bpimg.com/567571/1a0b88d819a35fcf.jpg)
 
