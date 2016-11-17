@@ -8,10 +8,13 @@
 
 ## iOS
 
-#### 关于操作系统
+#### 操作系统
 
 * [来谈谈 Mac OS X 内核](https://github.com/Wl201314/Joy-Blog/blob/master/Blog/%E6%9D%A5%E8%B0%88%E8%B0%88%20Mac%20OS%20X%20%E5%86%85%E6%A0%B8.md)
+
 * [趣探 Mach-O：文件格式](https://github.com/Wl201314/Joy-Blog/blob/master/Blog/%E8%B6%A3%E6%8E%A2%20Mach-O%EF%BC%9A%E6%96%87%E4%BB%B6%E6%A0%BC%E5%BC%8F.md)
+
+* [点击 Run 之后发生了什么？](https://github.com/Wl201314/Joy-Blog/blob/master/Blog/%E7%82%B9%E5%87%BB%20Run%20%E4%B9%8B%E5%90%8E%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88%EF%BC%9F.md)
 
 #### Runtime
 
