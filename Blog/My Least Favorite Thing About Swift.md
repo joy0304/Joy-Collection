@@ -1,4 +1,5 @@
-## 关于 Swift，我最不喜欢的事
+> * 原文地址：[My Least Favorite Thing About Swift](http://khanlou.com/2016/08/my-least-favorite-thing-about-swift/)
+> * 译者：Joy
 
 在以前，我已经写过很多喜欢` Swift `的理由。但是今天，我想要写的是这门语言不足的地方。这是一个带有很多细微区别的复杂问题，所以我将举出几个例子，去指出这门语言做的好的地方，做的不好的地方，以及将来会怎样。
 

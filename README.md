@@ -24,6 +24,8 @@
 
 * [A Fancy Animation with StackView](https://github.com/joy0304/Joy-Blog/blob/master/Blog/A%20Fancy%20Animation%20with%20StackView.md)
 
+* [My Least Favorite Thing About Swift](https://github.com/joy0304/Joy-Blog/blob/master/Blog/My%20Least%20Favorite%20Thing%20About%20Swift.md)
+
 
 
 
