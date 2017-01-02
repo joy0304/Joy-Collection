@@ -43,6 +43,10 @@
 * 目前这边的产品有阿里百川掌中测、腾讯 GT 等产品
 * [腾讯 GT 开源代码](https://github.com/Tencent/GT) - (来源：腾讯)
 
+## 用户行为无埋点收集
+
+* [SDK无埋点技术在百分点的探索和实践](http://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=2651112803&idx=1&sn=061e10ff89c15f893511688f9c7864c2#rd)
+
 ## 网络优化
 
 * [2016年携程App网络服务通道治理和性能优化实践](http://chuansong.me/n/466033251461) - (来源：携程) 
