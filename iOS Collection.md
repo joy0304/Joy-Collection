@@ -21,6 +21,7 @@
 * [优化 App 的启动时间](http://yulingtianxia.com/blog/2016/10/30/Optimizing-App-Startup-Time/)－（来源：玉令天下的博客）
 * [iOS 程序 main 函数之前发生了什么](http://blog.sunnyxx.com/2014/08/30/objc-pre-main/)－（来源：sunnyxx）
 * [Facebook iOS App如何优化启动时间](http://www.baijingapp.com/article/3286)
+* [点击 Run 之后发生了什么？](http://www.jianshu.com/p/d5cf01424e92) - (来源：Joy)
 * [把玩链接器](https://github.com/joy0304/Joy-Blog/blob/master/Contents/%EF%BC%88%E5%AD%99%E6%BA%90%EF%BC%89%E6%8A%8A%E7%8E%A9%E9%93%BE%E6%8E%A5%E5%99%A8.pdf)－（来源：sunnyxx）
 * WWDC 2016 Session 406
 * [由App的启动说起](http://oncenote.com/2015/06/01/How-App-Launch/)－（来源： jaminzzhang）
@@ -45,7 +46,13 @@
 
 ## 用户行为无埋点收集
 
-* [SDK无埋点技术在百分点的探索和实践](http://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=2651112803&idx=1&sn=061e10ff89c15f893511688f9c7864c2#rd)
+* [SDK无埋点技术在百分点的探索和实践](http://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=2651112803&idx=1&sn=061e10ff89c15f893511688f9c7864c2#rd) - (来源：移动开发前线)
+
+## Aspects
+
+* [面向切面编程之 Aspects 源码解析及应用](http://wereadteam.github.io/2016/06/30/Aspects/?utm_source=tuicool&utm_medium=referral) -（来源：微信读书）
+* [iOS 如何实现Aspect Oriented Programming (上)](http://www.jianshu.com/p/dc9dca24d5de) - （来源：halfrost ）
+* [iOS 如何实现Aspect Oriented Programming (下)](http://www.jianshu.com/p/2ad7e90b521b)- （来源：halfrost ）
 
 ## 网络优化
 
@@ -54,6 +61,7 @@
 * [万人低头时代，支付宝APP无线网络性能该如何保障](http://course.tuicool.com/course/details/58058f15a826b5f9e86678fb) - (来源：云栖社区)
 
 
-## UI 优化
+## 性能优化
 
 * [携程移动端 UI 界面性能优化实践](http://weibo.com/ttarticle/p/show?id=2309404042028194341312) - (来源：携程)
+* [携程移动端性能优化](http://mp.weixin.qq.com/s?__biz=MzA4MzEwOTkyMQ==&mid=2667377051&idx=1&sn=3030c1a7d234c202342e5b2eea424320&chksm=84f320d5b384a9c31b15462fd2bfc1dfec33540dfeaf7835548385d63377a1874a1effac8520&mpshare=1&scene=23&srcid=0105iCT54dseMAIkJ3Uvl2tA#rd) - (来源：携程)
