@@ -65,3 +65,13 @@
 
 * [携程移动端 UI 界面性能优化实践](http://weibo.com/ttarticle/p/show?id=2309404042028194341312) - (来源：携程)
 * [携程移动端性能优化](http://mp.weixin.qq.com/s?__biz=MzA4MzEwOTkyMQ==&mid=2667377051&idx=1&sn=3030c1a7d234c202342e5b2eea424320&chksm=84f320d5b384a9c31b15462fd2bfc1dfec33540dfeaf7835548385d63377a1874a1effac8520&mpshare=1&scene=23&srcid=0105iCT54dseMAIkJ3Uvl2tA#rd) - (来源：携程)
+
+## CocoaPods
+
+* [细聊 Cocoapods 与 Xcode 工程配置](http://www.jianshu.com/p/ad2e37e741bb)
+* [CocoaPods 都做了什么？](http://www.jianshu.com/p/84936d9344ff)
+* [最新的CocoaPods的使用教程(一)](http://www.jianshu.com/p/dfe970588f95)
+* [最新的CocoaPods的使用教程(二)](http://www.jianshu.com/p/c6c258a7a3b8)
+* [Cocoapods系列教程(一)——入门](http://ios.jobbole.com/88358/)
+* [Cocoapods系列教程(二)——开源主义接班人](http://ios.jobbole.com/88361/)
+* [Cocoapods系列教程(三)——私有库管理和模块化管理](http://ios.jobbole.com/88363/)
