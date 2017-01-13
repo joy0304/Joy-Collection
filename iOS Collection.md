@@ -68,10 +68,17 @@
 
 ## CocoaPods
 
-* [细聊 Cocoapods 与 Xcode 工程配置](http://www.jianshu.com/p/ad2e37e741bb)
-* [CocoaPods 都做了什么？](http://www.jianshu.com/p/84936d9344ff)
-* [最新的CocoaPods的使用教程(一)](http://www.jianshu.com/p/dfe970588f95)
+* [细聊 Cocoapods 与 Xcode 工程配置](http://www.jianshu.com/p/ad2e37e741bb) -（来源：bestSwifter）
+* [CocoaPods 都做了什么？](http://www.jianshu.com/p/84936d9344ff) - （来源：Draveness）
+* [最新的CocoaPods的使用教程(一)](http://www.jianshu.com/p/dfe970588f95) -（来源：简书-Dely）
 * [最新的CocoaPods的使用教程(二)](http://www.jianshu.com/p/c6c258a7a3b8)
-* [Cocoapods系列教程(一)——入门](http://ios.jobbole.com/88358/)
-* [Cocoapods系列教程(二)——开源主义接班人](http://ios.jobbole.com/88361/)
+* [Cocoapods系列教程(一)——入门](http://ios.jobbole.com/88358/) -（ 来源：Pluto-Y）
+* [Cocoapods系列教程(二)——开源主义接班人](http://ios.jobbole.com/88361/) 
 * [Cocoapods系列教程(三)——私有库管理和模块化管理](http://ios.jobbole.com/88363/)
+
+## FishHook 
+
+* [趣探 Mach-O：文件格式分析](http://www.jianshu.com/p/54d842db3f69) - (来源：Joy)
+* [Mach-O 的动态连接](http://turingh.github.io/2016/03/10/Mach-O%E7%9A%84%E5%8A%A8%E6%80%81%E9%93%BE%E6%8E%A5/) -（来源：mrh）
+* [动态修改 C 语言函数的实现](http://www.jianshu.com/p/625a61dfe039) -（来源：Draveness）
+* [fishhook_analysis](https://github.com/turingH/fishhook_analysis)-（来源：mrh）
