@@ -75,6 +75,7 @@
 * [Cocoapods系列教程(一)——入门](http://ios.jobbole.com/88358/) -（ 来源：Pluto-Y）
 * [Cocoapods系列教程(二)——开源主义接班人](http://ios.jobbole.com/88361/) 
 * [Cocoapods系列教程(三)——私有库管理和模块化管理](http://ios.jobbole.com/88363/)
+* [制作Swift和Objective-C Mixed的Pod](http://www.jianshu.com/p/c7623c31d77b) - (来源：南栀倾寒)
 
 ## FishHook 
 
