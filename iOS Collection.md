@@ -76,6 +76,7 @@
 * [Cocoapods系列教程(二)——开源主义接班人](http://ios.jobbole.com/88361/) 
 * [Cocoapods系列教程(三)——私有库管理和模块化管理](http://ios.jobbole.com/88363/)
 * [制作Swift和Objective-C Mixed的Pod](http://www.jianshu.com/p/c7623c31d77b) - (来源：南栀倾寒)
+* [给 Pod 添加资源文件](http://blog.xianqu.org/2015/08/pod-resources/?utm_source=tuicool&utm_medium=referral) - (来源：闲趣的网志)
 
 ## FishHook 
 
