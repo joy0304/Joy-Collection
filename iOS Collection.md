@@ -84,6 +84,7 @@
 * [Mach-O 的动态连接](http://turingh.github.io/2016/03/10/Mach-O%E7%9A%84%E5%8A%A8%E6%80%81%E9%93%BE%E6%8E%A5/) -（来源：mrh）
 * [动态修改 C 语言函数的实现](http://www.jianshu.com/p/625a61dfe039) -（来源：Draveness）
 * [fishhook_analysis](https://github.com/turingH/fishhook_analysis)-（来源：mrh）
+* [趣探 Mach-O：FishHook 解析](http://www.jianshu.com/p/9e1f4d771e35) - (来源：Joy)
 
 ## 动态代理（NSProxy）
 
