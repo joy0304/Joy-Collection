@@ -25,6 +25,7 @@
 * [把玩链接器](https://github.com/joy0304/Joy-Blog/blob/master/Contents/%EF%BC%88%E5%AD%99%E6%BA%90%EF%BC%89%E6%8A%8A%E7%8E%A9%E9%93%BE%E6%8E%A5%E5%99%A8.pdf)－（来源：sunnyxx）
 * WWDC 2016 Session 406
 * [由App的启动说起](http://oncenote.com/2015/06/01/How-App-Launch/)－（来源： jaminzzhang）
+* [今日头条iOS客户端启动速度优化](https://techblog.toutiao.com/2017/01/17/iosspeed/) - (来源：今日头条)
 
 ## APM：性能检测
 
