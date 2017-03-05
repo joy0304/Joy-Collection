@@ -54,6 +54,7 @@
 ## 用户行为无埋点收集
 
 * [SDK无埋点技术在百分点的探索和实践](http://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=2651112803&idx=1&sn=061e10ff89c15f893511688f9c7864c2#rd) - (来源：移动开发前线)
+* [美团点评前端无痕埋点实践](http://tech.meituan.com/mt-mobile-analytics-practice.html) - (来源：美团)
 
 ## Aspects
 
@@ -84,6 +85,7 @@
 * [Cocoapods系列教程(三)——私有库管理和模块化管理](http://ios.jobbole.com/88363/)
 * [制作Swift和Objective-C Mixed的Pod](http://www.jianshu.com/p/c7623c31d77b) - (来源：南栀倾寒)
 * [给 Pod 添加资源文件](http://blog.xianqu.org/2015/08/pod-resources/?utm_source=tuicool&utm_medium=referral) - (来源：闲趣的网志)
+* [优雅的开发Swift和Objective C混编的Framework](http://blog.csdn.net/hello_hwc/article/details/58320433) - (来源：LeoMobileDeveloper)
 
 ## FishHook 
 
