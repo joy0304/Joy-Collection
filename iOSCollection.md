@@ -45,6 +45,7 @@
 * [饿了么的移动APM架构实践](http://weibo.com/ttarticle/p/show?id=2309352000024049735869695715) - (来源：饿了么)
 * [手机淘宝：亿级用户APP的快速运维交付实践](https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650400312&idx=1&sn=ce8468991c70ab2e06634f59cd2b6865&chksm=83952e20b4e2a736f701853a483da535312a258a56ca87d65b8ef77e8cf012dab9145659a0aa&scene=0&key=459eeebe1b51063320bc30b7024529048032de1a4d3a8e7cf01dbfc995da8f74fe85688c8be0471b1fdcb82d9b875d163a62f42e9ca04946e2c899194097fb93632ca7790f6fb7395d897442b9272213&ascene=0&uin=MTY3NzkzNjI0NA%3D%3D&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.12.2+build(16C67)&version=12020010&nettype=WIFI&fontScale=100&pass_ticket=JE5tAT8H%2BfKdFzHQq72mWMIv%2BitHWOqOma3xmX5OeGGPWz2mPXxz3kaQE1WSKJlw)
 * [蘑菇街移动端全链路跟踪保障体系](http://www.infoq.com/cn/presentations/mobile-terminal-full-link-tracking-and-security-system)
+* [阿里-性能可视化之略](https://github.com/joy0304/Joy-Blog/blob/master/Contents/4%EF%BC%8C%E9%99%88%E6%AD%A6-%20%E6%80%A7%E8%83%BD%E5%8F%AF%E8%A7%86%E5%8C%96%E4%B9%8B%E8%B7%AF.pdf)
 
 ## 掌中测
 
