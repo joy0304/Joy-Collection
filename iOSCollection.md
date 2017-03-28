@@ -46,6 +46,7 @@
 * [手机淘宝：亿级用户APP的快速运维交付实践](https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650400312&idx=1&sn=ce8468991c70ab2e06634f59cd2b6865&chksm=83952e20b4e2a736f701853a483da535312a258a56ca87d65b8ef77e8cf012dab9145659a0aa&scene=0&key=459eeebe1b51063320bc30b7024529048032de1a4d3a8e7cf01dbfc995da8f74fe85688c8be0471b1fdcb82d9b875d163a62f42e9ca04946e2c899194097fb93632ca7790f6fb7395d897442b9272213&ascene=0&uin=MTY3NzkzNjI0NA%3D%3D&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.12.2+build(16C67)&version=12020010&nettype=WIFI&fontScale=100&pass_ticket=JE5tAT8H%2BfKdFzHQq72mWMIv%2BitHWOqOma3xmX5OeGGPWz2mPXxz3kaQE1WSKJlw)
 * [蘑菇街移动端全链路跟踪保障体系](http://www.infoq.com/cn/presentations/mobile-terminal-full-link-tracking-and-security-system)
 * [阿里-性能可视化之略](https://github.com/joy0304/Joy-Blog/blob/master/Contents/4%EF%BC%8C%E9%99%88%E6%AD%A6-%20%E6%80%A7%E8%83%BD%E5%8F%AF%E8%A7%86%E5%8C%96%E4%B9%8B%E8%B7%AF.pdf)
+* [网易 APM 数据处理系统实践](http://www.infoq.com/cn/presentations/practice-of-netease-apm-data-processing-system?utm_campaign=rightbar_v2&utm_source=infoq&utm_medium=presentations_link&utm_content=link_text)
 
 ## 掌中测
 
@@ -69,12 +70,16 @@
 * [2016年携程App网络服务通道治理和性能优化实践](http://chuansong.me/n/466033251461) - (来源：携程) 
 * [携程App的网络性能优化实践](http://chuansong.me/n/2577464) - (来源：携程)
 * [万人低头时代，支付宝APP无线网络性能该如何保障](http://course.tuicool.com/course/details/58058f15a826b5f9e86678fb) - (来源：云栖社区)
+* [移动网络下的性能优化之网络篇](https://blog.wilddog.com/?p=974)
+* [深度优化iOS网络模块](http://mrpeak.cn/blog/ios-network/)- (来源：mrpeak)
+* [美团点评移动网络优化实践](http://tech.meituan.com/SharkSDK.html)- (来源：美团)
 
 
 ## 性能优化
 
 * [携程移动端 UI 界面性能优化实践](http://weibo.com/ttarticle/p/show?id=2309404042028194341312) - (来源：携程)
 * [携程移动端性能优化](http://mp.weixin.qq.com/s?__biz=MzA4MzEwOTkyMQ==&mid=2667377051&idx=1&sn=3030c1a7d234c202342e5b2eea424320&chksm=84f320d5b384a9c31b15462fd2bfc1dfec33540dfeaf7835548385d63377a1874a1effac8520&mpshare=1&scene=23&srcid=0105iCT54dseMAIkJ3Uvl2tA#rd) - (来源：携程)
+* [手机淘宝性能优化](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=203394618&idx=1&sn=58b05aaf205b20c361935a02282392d9&scene=23&srcid=0604MsP7tTbo6cELNNdVYQ9O#rd)- (来源：淘宝)
 
 ## CocoaPods
 
