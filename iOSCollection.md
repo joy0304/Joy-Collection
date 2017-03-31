@@ -48,6 +48,11 @@
 * [阿里-性能可视化之略](https://github.com/joy0304/Joy-Blog/blob/master/Contents/4%EF%BC%8C%E9%99%88%E6%AD%A6-%20%E6%80%A7%E8%83%BD%E5%8F%AF%E8%A7%86%E5%8C%96%E4%B9%8B%E8%B7%AF.pdf)
 * [网易 APM 数据处理系统实践](http://www.infoq.com/cn/presentations/practice-of-netease-apm-data-processing-system?utm_campaign=rightbar_v2&utm_source=infoq&utm_medium=presentations_link&utm_content=link_text)
 
+## APM 数据分析
+
+* [基于大数据APM排查的智能根源分析](https://mp.weixin.qq.com/s?__biz=MzI4NzE1NTYyMg==&mid=2651103008&idx=1&sn=e7d8158960ac10aefd34e863073a795f&chksm=f021cbe9c75642ff9e7cc4c663e5a4c899d85a08d5612b854497d1c92f33d5a4a213512e0dee&scene=0&key=4ab4dfbdf0fdc9bbf0d696ad2f5b3cb9e4190b01615852590f7f6ae298b937ae6b31af98bbe5527f330dd476cbc49596e2983b137321af91ec4f4ace61d115dd2ab1be100b7f54026bcb84e1694fa1c0&ascene=0&uin=MTY3NzkzNjI0NA%3D%3D&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.12.3+build(16D32)&version=12020110&nettype=WIFI&fontScale=100&pass_ticket=mOd2AdvHs2Rmo%2BolHWYhMI2uj8aQ8nik3pvNu%2FB1d1b2D1zE8L6OHW3EE8JnH9sN)
+* [网易 APM 数据处理系统实践](http://www.infoq.com/cn/presentations/practice-of-netease-apm-data-processing-system?utm_campaign=rightbar_v2&utm_source=infoq&utm_medium=presentations_link&utm_content=link_text)
+
 ## 掌中测
 
 * 目前这边的产品有阿里百川掌中测、腾讯 GT 等产品
@@ -73,6 +78,7 @@
 * [移动网络下的性能优化之网络篇](https://blog.wilddog.com/?p=974)
 * [深度优化iOS网络模块](http://mrpeak.cn/blog/ios-network/)- (来源：mrpeak)
 * [美团点评移动网络优化实践](http://tech.meituan.com/SharkSDK.html)- (来源：美团)
+* [全局精确流量调度新思路-HttpDNS服务详解](http://mp.weixin.qq.com/s?__biz=MzA3ODgyNzcwMw==&mid=201837080&idx=1&sn=b2a152b84df1c7dbd294ea66037cf262&scene=2&from=timeline&isappinstalled=0&utm_source=tuicool)
 
 
 ## 性能优化
