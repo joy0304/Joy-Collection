@@ -47,6 +47,8 @@
 * [蘑菇街移动端全链路跟踪保障体系](http://www.infoq.com/cn/presentations/mobile-terminal-full-link-tracking-and-security-system)
 * [阿里-性能可视化之略](https://github.com/joy0304/Joy-Blog/blob/master/Contents/4%EF%BC%8C%E9%99%88%E6%AD%A6-%20%E6%80%A7%E8%83%BD%E5%8F%AF%E8%A7%86%E5%8C%96%E4%B9%8B%E8%B7%AF.pdf)
 * [网易 APM 数据处理系统实践](http://www.infoq.com/cn/presentations/practice-of-netease-apm-data-processing-system?utm_campaign=rightbar_v2&utm_source=infoq&utm_medium=presentations_link&utm_content=link_text)
+* [蘑菇街 App 的稳定性与性能实践](http://pstatic.geekbang.org/pdf/5809d9ef9b45b.pdf?e=1491025393&token=eHNJKRTldoRsUX0uCP9M3icEhpbyh3VF9Nrk5UPM:lKVEa3b-uxMSKW75daZyi0p32aQ=)
+
 
 ## APM 数据分析
 
@@ -79,6 +81,10 @@
 * [深度优化iOS网络模块](http://mrpeak.cn/blog/ios-network/)- (来源：mrpeak)
 * [美团点评移动网络优化实践](http://tech.meituan.com/SharkSDK.html)- (来源：美团)
 * [全局精确流量调度新思路-HttpDNS服务详解](http://mp.weixin.qq.com/s?__biz=MzA3ODgyNzcwMw==&mid=201837080&idx=1&sn=b2a152b84df1c7dbd294ea66037cf262&scene=2&from=timeline&isappinstalled=0&utm_source=tuicool)
+* [美柚：女性移动APP安全攻防战](https://yq.aliyun.com/articles/61710)
+* [网络诊断](https://github.com/Lede-Inc/LDNetDiagnoService_IOS)
+* [iOS监控-DNS劫持](http://www.jianshu.com/p/08f7146e045f)
+* [iOS网络请求优化之DNS映射](http://www.mrpeak.cn/ios/2016/01/22/dnsmapping)
 
 
 ## 性能优化
