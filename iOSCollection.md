@@ -126,7 +126,25 @@
 * [Wireshark抓包iOS入门教程](http://mrpeak.cn/blog/wireshark/)
 * [利用 WireShark 深入调试网络请求](http://www.jianshu.com/p/d1c30e33525d)
 * [使用 Wireshark 调试 HTTP/2 流量](https://imququ.com/post/http2-traffic-in-wireshark.html)
+* [获取NSURLResponse的HTTPVersion](http://www.th7.cn/Program/IOS/201701/1090816.shtml)
+
+## HTTP 2.0
+
+* [Jerry Qu的HTTP2.0合辑](https://imququ.com/post/series.html)
+* [[How to get HTTP protocol version from a given NSHTTPURLResponse?](http://stackoverflow.com/questions/39343725/how-to-get-http-protocol-version-from-a-given-nshttpurlresponse)]()
+* [[http2-协议协商过程](https://segmentfault.com/a/1190000002757622)]()
+* [[h2-13 中文版](https://github.com/fex-team/http2-spec)]()
+*  [Hypertext Transfer Protocol Version 2 (HTTP/2)](https://httpwg.github.io/specs/rfc7540.html)
+* [HPACK: Header Compression for HTTP/2](https://httpwg.github.io/specs/rfc7541.html)
+* [Wireshark抓包iOS入门教程](http://mrpeak.cn/blog/wireshark/)
+* [iOS HTTP/2 Server Push 探索](http://www.jianshu.com/p/d3959e5acfac)
+* [HTTP/2 on iOS](http://www.floriangoessler.de/ios/2015/08/30/HTTP2-on-iOS.html)
+* [HTTPS 与 HTTP2 协议分析](https://mp.weixin.qq.com/s?__biz=MzA4MzEwOTkyMQ==&mid=2667377675&idx=1&sn=d1911d5f6c431cdecc3da933209d1195&chksm=84f32545b384ac538b5a400e8b2773b68377e1778ca5a1ed7b40e92aa715a58bb92a9d7777e7&scene=0&key=99bf2741c7bdd93a0c79743cf7626cc8653a7306d7bdaaad41a9e10fc272ccf25d1b6da51ad141e2c5f62b016e34ba685e355f76f03ab877ebb44dac9ceba9a9ae5c0b8ab9739e88d967a077d4a3d5be&ascene=0&uin=MTY3NzkzNjI0NA%3D%3D&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.12.3+build(16D32)&version=12020110&nettype=WIFI&fontScale=100&pass_ticket=v4f3j82l8ughtmSZjfn5%2FFRoI%2BM4ntCq8S9SgIaAiDpg6FDq6D9dXVa3Hs9kv2R4)
+* [http2讲解](https://www.gitbook.com/book/ye11ow/http2-explained/details)
+* [HTTP 2 的新特性你 get 了吗？](https://www.qcloud.com/community/article/541321?fromSource=gwzcw.93353.93353)
+* [HTTP/2探索第一篇——概念](https://www.qcloud.com/community/article/164816001481011799?fromSource=gwzcw.93320.93320.93320)
 
 ## 推荐书单
 
 * 《深入解析Mac OS X & iOS操作系统》
+* 《深入理解计算机系统（第三版）》
