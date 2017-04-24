@@ -68,6 +68,7 @@
 * [iOS无埋点SDK 之 RN页面的数据收集](http://www.jianshu.com/p/0e1f2d357e39)
 * [Android无埋点数据收集SDK关键技术](http://www.jianshu.com/p/b5ffe845fe2d)
 * [网易HubbleData无埋点SDK在iOS端的设计与实现](https://mp.weixin.qq.com/s?__biz=MzIyNjY1Mjg1MA==&mid=2247483740&idx=1&sn=e4797093fa3a61a905aa24ffab64a22d&chksm=e86c6681df1bef97c68d8e340680c9d676de363dc44669619a0e589ea8cc5029b38b5629bc78&mpshare=1&scene=24&srcid=0424aOBeuoj2pbmJid8Y98la&key=8c3e7ded42e4df897f336993d16779d366a40869163c3784e0d0f0c4a74bdd1bb76ffd4a0fc7d1335f7e7d6a8c23d9e1731d4948f0e7f8adca24ac1460f86629ba44dea704d25b084e5375f8dd3e001a&ascene=0&uin=MTY3NzkzNjI0NA%3D%3D&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.12.3+build(16D32)&version=12020110&nettype=WIFI&fontScale=100&pass_ticket=r5CsnaUuHmsvqzjfj%2FrgCgbIQSgHWM0DKFdckEzQY27bsb8XL7NvdpmMnnXqrmR6)
+* [网易乐得无埋点之路](https://github.com/joy0304/Joy-Blog/blob/master/Contents/%E7%BD%91%E6%98%93%E4%B9%90%E5%BE%97%E6%97%A0%E5%9F%8B%E7%82%B9%E4%B9%8B%E8%B7%AF.pdf)
 
 ## Aspects
 
