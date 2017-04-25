@@ -1,4 +1,4 @@
-| 每日专栏 | 维护者 |RN & Weex 专题合辑  |[iOS 专题合辑](https://github.com/joy0304/Joy-Blog/blob/master/iOSCollection.md)|[Android 专题合辑](https://github.com/joy0304/Joy-Blog/blob/master/AndroidCollection.md)| 数据分析 |
+| 每日专栏 | 维护者 |RN & Weex 专题合辑  |[iOS 专题合辑](https://github.com/joy0304/Joy-Blog/blob/master/iOSCollection.md)|[Android 专题合辑](https://github.com/joy0304/Joy-Blog/blob/master/AndroidCollection.md)| [数据分析](https://github.com/joy0304/Joy-Blog/blob/master/DataAnalysis.md) |
 | ------------- |-------------| -----| -----| -----|-----|
 | [简书-移动前沿](http://www.jianshu.com/c/5aac963ca52d)|[@Joy__xx](http://weibo.com/5419850564/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1)      | ＊＊＊＊＊＊＊＊＊＊＊|＊＊＊＊＊＊＊＊|＊＊＊＊＊＊＊＊＊|＊＊＊＊＊|
 
