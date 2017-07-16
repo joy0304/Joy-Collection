@@ -134,6 +134,16 @@
 * [使用 Wireshark 调试 HTTP/2 流量](https://imququ.com/post/http2-traffic-in-wireshark.html)
 * [获取NSURLResponse的HTTPVersion](http://www.th7.cn/Program/IOS/201701/1090816.shtml)
 
+## 图像加载、解码
+
+* [谈谈 iOS 中图片的解压缩](http://blog.leichunfeng.com/blog/2017/02/20/talking-about-the-decompression-of-the-image-in-ios/)
+* [如何避免图像解压缩的时间开销](http://longtimenoc.com/archives/ios%E5%A6%82%E4%BD%95%E9%81%BF%E5%85%8D%E5%9B%BE%E5%83%8F%E8%A7%A3%E5%8E%8B%E7%BC%A9%E7%9A%84%E6%97%B6%E9%97%B4%E5%BC%80%E9%94%80)
+* [iOS图片加载速度极限优化—FastImageCache解析](http://blog.cnbang.net/tech/2578/)
+* [iOS中的imageIO与image解码](http://blog.mrriddler.com/2016/07/20/iOS%E4%B8%AD%E7%9A%84imageIO%E4%B8%8Eimage%E8%A7%A3%E7%A0%81/)
+* [Avoiding Image Decompression Sickness](https://www.cocoanetics.com/2011/10/avoiding-image-decompression-sickness/)
+* [Chameleon is a port of Apple's UIKit for iOS to Mac OS X.](https://github.com/BigZaphod/Chameleon)
+
+
 ## HTTP 2.0
 
 * [Jerry Qu的HTTP2.0合辑](https://imququ.com/post/series.html)
