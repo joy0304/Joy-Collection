@@ -111,6 +111,7 @@
 * [制作Swift和Objective-C Mixed的Pod](http://www.jianshu.com/p/c7623c31d77b) - (来源：南栀倾寒)
 * [给 Pod 添加资源文件](http://blog.xianqu.org/2015/08/pod-resources/?utm_source=tuicool&utm_medium=referral) - (来源：闲趣的网志)
 * [优雅的开发Swift和Objective C混编的Framework](http://blog.csdn.net/hello_hwc/article/details/58320433) - (来源：LeoMobileDeveloper)
+* [使用CocoaPods开发并打包静态库](http://www.cnblogs.com/brycezhang/p/4117180.html)
 
 ## FishHook 
 
@@ -159,6 +160,16 @@
 * [http2讲解](https://www.gitbook.com/book/ye11ow/http2-explained/details)
 * [HTTP 2 的新特性你 get 了吗？](https://www.qcloud.com/community/article/541321?fromSource=gwzcw.93353.93353)
 * [HTTP/2探索第一篇——概念](https://www.qcloud.com/community/article/164816001481011799?fromSource=gwzcw.93320.93320.93320)
+* [WEB加速，协议先行](https://zhuanlan.zhihu.com/p/27938635?group_id=870372159967617024)
+
+## JavaScript 与 iOS 交互
+
+* [JavaScript 与 Objective-C 相互通信交互](http://www.skyfox.org/javascript-ios-navive-message.html)
+* [iOS中UIWebView与WKWebView、JavaScript与OC交互、Cookie管理看我就够](http://blog.darkangel7.com/2016/09/01/iOS%E4%B8%ADUIWebView%E4%B8%8EWKWebView%E3%80%81JavaScript%E4%B8%8EOC%E4%BA%A4%E4%BA%92%E3%80%81Cookie%E7%AE%A1%E7%90%86%E7%9C%8B%E6%88%91%E5%B0%B1%E5%A4%9F%EF%BC%88%E4%B8%8A%EF%BC%89/)
+* [Java​Script​Core](http://nshipster.cn/javascriptcore/)
+* [浅谈iOS与H5的交互-JavaScriptCore框架](http://www.jianshu.com/p/0428d0734379)
+* [深入浅出 JavaScriptCore](http://www.jianshu.com/p/ac534f508fb0)
+* [iOS 中的 web 开发 JavaScriptCore](http://www.jianshu.com/p/66f98ace2a70)
 
 ## 推荐书单
 
