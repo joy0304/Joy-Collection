@@ -19,6 +19,13 @@
 
 * [iOS异常捕获](http://www.iosxxx.com/blog/2015-08-29-iosyi-chang-bu-huo.html) － （来源：向晨宇的技术博客）
 * [漫谈iOS Crash收集框架](http://www.cocoachina.com/ios/20150701/12301.html) －（来源：念茜的博客）
+* [聊聊从iOS固件提取系统库符号](http://blog.csdn.net/crash163/article/details/52634606)
+* [iOS Crash分析必备：符号化系统库方法](https://zuikyo.github.io/2016/12/18/iOS%20Crash%E6%97%A5%E5%BF%97%E5%88%86%E6%9E%90%E5%BF%85%E5%A4%87%EF%BC%9A%E7%AC%A6%E5%8F%B7%E5%8C%96%E7%B3%BB%E7%BB%9F%E5%BA%93%E6%96%B9%E6%B3%95/)
+* [iOS崩溃堆栈信息的符号化解析](http://www.jianshu.com/p/953f0961157a)
+* [杨咏臻 | 实战iOS崩溃堆栈的符号化解析](http://www.10tiao.com/html/473/201708/2651474079/1.html)
+* [Handling unhandled exceptions and signals](http://www.cocoawithlove.com/2010/05/handling-unhandled-exceptions-and.html)
+* [iOS dSYM文件结构剖析](http://www.csdn.net/article/2015-08-04/2825369)
+
 
 ## 程序的启动与优化
 
