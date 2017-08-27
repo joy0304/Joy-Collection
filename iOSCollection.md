@@ -10,6 +10,11 @@
 * [微信iOS卡顿监控系统](http://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=207890859&idx=1&sn=e98dd604cdb854e7a5808d2072c29162&scene=4#wechat_redirect) － (来源：微信移动)
 * [iOS 实时卡顿监控](https://github.com/suifengqjn/PerformanceMonitor) － (来源：fengshi)
 
+## Tagged Pointer
+
+* [深入理解Tagged Pointer](http://www.infoq.com/cn/articles/deep-understanding-of-tagged-pointer/)
+* [采用Tagged Pointer的字符串](http://www.cocoachina.com/ios/20150918/13449.html)
+
 ## NSURLProtocol
 
 * [NSURLProtocol全攻略](http://www.jianshu.com/p/02781c0bbca9) - (from : 大娱乐家Q)
