@@ -2,6 +2,15 @@
 
 * 资源会越来越多，不方便查找，您可以使用 `command F`来进行关键字查找
 
+## 获取每个方法的执行时间
+
+* [深入剖析 iOS 性能优化](http://www.jianshu.com/p/c58001ae3da5)
+* [全局方法耗时统计之 hook 踩坑之旅](http://linusling.com/2016/12/17/statistics-of-method-time-consuming-in-ios/)
+* [hook objc_msgSend](https://github.com/zteshadow/objc_msgSend)
+* [Dissecting objc_msgSend on ARM64](https://github.com/idevqa/FridayQA/blob/master/2017/2017-06-30.md)
+* [为什么objc_msgSend必须用汇编实现](http://blog.csdn.net/u011342466/article/details/52741003)
+
+
 ## iOS 实时卡顿检测
 
 * [iOS应用UI线程卡顿监控](http://mrpeak.cn/blog/ui-detect/) －（来源：MrPeak杂货铺）
@@ -186,6 +195,8 @@
 * [浅谈iOS与H5的交互-JavaScriptCore框架](http://www.jianshu.com/p/0428d0734379)
 * [深入浅出 JavaScriptCore](http://www.jianshu.com/p/ac534f508fb0)
 * [iOS 中的 web 开发 JavaScriptCore](http://www.jianshu.com/p/66f98ace2a70)
+
+## IM 与长连接
 
 ## 推荐书单
 
