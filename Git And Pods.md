@@ -40,6 +40,8 @@
 
 * git branch -d newFeature：删除分支
 
+* git push origin --delete remote_branch
+
 * git stash ：可以把当前工作现场“储藏”起来，等以后恢复现场后继续
 
 * git stash apply & git stash drop：恢复并删除
