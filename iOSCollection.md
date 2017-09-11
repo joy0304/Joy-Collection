@@ -228,3 +228,13 @@
 
 * 《深入解析Mac OS X & iOS操作系统》
 * 《深入理解计算机系统（第三版）》
+*  《高性能iOS应用开发》
+*  《iOS成长之路》
+*  《Objective-C高级编程 iOS与OS X多线程和内存管理》
+*  《编译系统透视：图解编译原理》
+*  《iOS Application Security 》
+*  《Advanced Apple Debugging & Reverse_Engineering》
+*  《图解密码技术 第三版》
+*  《HTTPS 权威指南》
+*  《网络是怎样连接的 - 户根勤》
+*  《macOS软件安全与逆向分析》
