@@ -55,6 +55,7 @@
 * [干货 | 途牛iOS客户端启动速度优化实践](https://mp.weixin.qq.com/s?__biz=MzAwOTE0ODEwMQ==&mid=2650686830&idx=1&sn=d2f060ceb57c235c79d6709f628fcb67&chksm=836ee6c4b4196fd222ecd37cee720e321f25db8ea61b3ce0e3b03e1f7ecd600cf4332ee850bb&mpshare=1&scene=24&srcid=0428m0Yvb48i7iluIzUu35pP&key=80dec19febfab7e013b31928af2e3ceec2bb5146db6a534f611c55c79becc04a11138f465567e55d3b60efdcee93f969e52bbee54b1e5eee491c4013f3130218cc96e44d01dfdfb2c31a6796c0f24951&ascene=0&uin=MTY3NzkzNjI0NA%3D%3D&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.12.3+build(16D32)&version=12020110&nettype=WIFI&fontScale=100&pass_ticket=op%2FZ0lEAYmtlPRYF1sCK%2BvfhJaCS7%2BHMTZHZqGKIrTvJLI%2Boq2UvUzKikRhKS2%2Br)
 * [阿里数据iOS端启动速度优化的一些经验](http://www.jianshu.com/p/f29b59f4c2b9)
 * [一次立竿见影的启动时间优化](http://www.jianshu.com/p/c1734cbdf39b)
+* [iOS App 启动性能优化](https://zhuanlan.zhihu.com/p/28600469)
 
 ## APM：性能检测
 
