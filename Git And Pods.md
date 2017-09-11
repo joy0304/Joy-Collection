@@ -48,6 +48,9 @@
 
 * git stash pop：恢复的同时把 stash 内容也删了
 
+* git push origin --delete <branchName>：删除远程分支
+
+* git branch -D br：删除本地分支
 
 
 ### 推送

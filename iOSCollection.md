@@ -2,6 +2,22 @@
 
 * 资源会越来越多，不方便查找，您可以使用 `command F`来进行关键字查找
 
+## Xlog
+
+* [微信高性能线上日志系统xlog剖析](http://satanwoo.github.io/2017/07/30/xlog/)
+* [【Dev Club 分享】微信mars 的高性能日志模块 xlog](https://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg%3D%3D&mid=2653578220&idx=3&sn=5691bdd82ae0715ab12fd6b849f74aee&chksm=84b3b1ebb3c438fddf86bf74e232fa14222932ebd6d6439bed04ad17d5e64e9270d4ab460f64&scene=4)
+* [微信跨平台组件mars-xlog架构分析及迁移思路](https://blog.desmondyao.com/mars-xlog/)
+* [从Mars的Xlog组件学习日志系统](http://www.jianshu.com/p/f53b4575d3ae)
+* [微信终端跨平台组件Mars介绍](https://futucocoa.github.io/2017-01-20-TencentWechatMarsIntroduction/)
+* [Mars -- Wiki ](https://github.com/Tencent/mars/wiki)
+
+## WebView 性能监控
+
+* [如何通过WebView监控提升WebAPP性能](https://segmentfault.com/a/1190000005181254)
+* [移动端iOSH5性能监控技术角度分析](http://www.jianshu.com/p/e4a2b8521fe6)
+* [监控WebView请求中的页面性能数据，JS错误等](https://github.com/jwcqc/WebViewMonitor)
+* [WebView性能、体验分析与优化](https://tech.meituan.com/WebViewPerf.html)
+
 ## 获取每个方法的执行时间
 
 * [深入剖析 iOS 性能优化](http://www.jianshu.com/p/c58001ae3da5)
@@ -39,7 +55,7 @@
 * [杨咏臻 | 实战iOS崩溃堆栈的符号化解析](http://www.10tiao.com/html/473/201708/2651474079/1.html)
 * [Handling unhandled exceptions and signals](http://www.cocoawithlove.com/2010/05/handling-unhandled-exceptions-and.html)
 * [iOS dSYM文件结构剖析](http://www.csdn.net/article/2015-08-04/2825369)
-
+* [iOS 如何获取 Mach-O 的 UUID](http://www.jianshu.com/p/9201d5e34eb6)
 
 ## 程序的启动与优化
 
@@ -197,7 +213,16 @@
 * [深入浅出 JavaScriptCore](http://www.jianshu.com/p/ac534f508fb0)
 * [iOS 中的 web 开发 JavaScriptCore](http://www.jianshu.com/p/66f98ace2a70)
 
-## IM 与长连接
+## 长连接
+
+* [iOS即时通讯，从入门到“放弃”？](http://www.jianshu.com/p/2dbb360886a8)
+* [IM 即时通讯技术在多应用场景下的技术实现，以及性能调优](http://www.jianshu.com/p/8cd908148f9e)
+* [国内 90%以上的 iOS 开发者，对 APNs 的认识都是错的](http://www.jianshu.com/p/ace1b422bad4)
+* [微信iOS收款到账语音提醒开发总结](https://mp.weixin.qq.com/s/yYCaPMxHGT9LyRyAPewVWQ)
+* [理解用户通知](http://ks.netease.com/blog?id=5437#sec-3-5)
+* [即时通讯网](http://www.52im.net/)
+* [CocoaAsyncSocket、SRWebSocket 源码解析](http://www.jianshu.com/u/14431e509ae8)
+
 
 ## 推荐书单
 
