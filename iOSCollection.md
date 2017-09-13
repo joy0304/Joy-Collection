@@ -18,6 +18,10 @@
 * [监控WebView请求中的页面性能数据，JS错误等](https://github.com/jwcqc/WebViewMonitor)
 * [WebView性能、体验分析与优化](https://tech.meituan.com/WebViewPerf.html)
 
+## Method Swizzle
+
+* [Method Swizzling的各种姿势](http://www.tanhao.me/code/160723.html/)
+
 ## 获取每个方法的执行时间
 
 * [深入剖析 iOS 性能优化](http://www.jianshu.com/p/c58001ae3da5)
@@ -72,6 +76,7 @@
 * [阿里数据iOS端启动速度优化的一些经验](http://www.jianshu.com/p/f29b59f4c2b9)
 * [一次立竿见影的启动时间优化](http://www.jianshu.com/p/c1734cbdf39b)
 * [iOS App 启动性能优化](https://zhuanlan.zhihu.com/p/28600469)
+* [iOS端技术 | iOS main()之前都发生了什么](https://mp.weixin.qq.com/s/L7ZiH8j22F4ZJmpZzGxXSA)
 
 ## APM：性能检测
 
