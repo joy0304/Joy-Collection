@@ -77,6 +77,8 @@
 * [一次立竿见影的启动时间优化](http://www.jianshu.com/p/c1734cbdf39b)
 * [iOS App 启动性能优化](https://zhuanlan.zhihu.com/p/28600469)
 * [iOS端技术 | iOS main()之前都发生了什么](https://mp.weixin.qq.com/s/L7ZiH8j22F4ZJmpZzGxXSA)
+* [WWDC 2017] App Startup Time: Past, Present, and Future](https://techblog.toutiao.com/2017/07/05/session413/)
+* [A method of hook static initializers](http://everettjf.com/2017/02/06/a-method-of-hook-static-initializers/)
 
 ## APM：性能检测
 
@@ -158,13 +160,15 @@
 * [优雅的开发Swift和Objective C混编的Framework](http://blog.csdn.net/hello_hwc/article/details/58320433) - (来源：LeoMobileDeveloper)
 * [使用CocoaPods开发并打包静态库](http://www.cnblogs.com/brycezhang/p/4117180.html)
 
-## FishHook 
+## Mach-O 
 
 * [趣探 Mach-O：文件格式分析](http://www.jianshu.com/p/54d842db3f69) - (来源：Joy)
 * [Mach-O 的动态连接](http://turingh.github.io/2016/03/10/Mach-O%E7%9A%84%E5%8A%A8%E6%80%81%E9%93%BE%E6%8E%A5/) -（来源：mrh）
 * [动态修改 C 语言函数的实现](http://www.jianshu.com/p/625a61dfe039) -（来源：Draveness）
 * [fishhook_analysis](https://github.com/turingH/fishhook_analysis)-（来源：mrh）
 * [趣探 Mach-O：FishHook 解析](http://www.jianshu.com/p/9e1f4d771e35) - (来源：Joy)
+* [XNU、dyld源码分析Mach-O和动态库的加载过程(上)](https://mp.weixin.qq.com/s/I60p2M-IHDmeUanDUkFdVw)
+* [XNU、dyld 源码分析，Mach-O 和动态库的加载过程 (下)](https://mp.weixin.qq.com/s/fdDPyjRkVf9AdWiikBagHg)
 
 ## 动态代理（NSProxy）
 
