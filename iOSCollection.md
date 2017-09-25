@@ -29,6 +29,8 @@
 * [hook objc_msgSend](https://github.com/zteshadow/objc_msgSend)
 * [Dissecting objc_msgSend on ARM64](https://github.com/idevqa/FridayQA/blob/master/2017/2017-06-30.md)
 * [为什么objc_msgSend必须用汇编实现](http://blog.csdn.net/u011342466/article/details/52741003)
+* [HookZzModules](https://github.com/jmpews/HookZzModules/tree/master/hook_objc_msgSend)
+* [AppleTrace - Performance Analysis Tool](http://everettjf.com/2017/09/21/appletrace/)
 
 
 ## iOS 实时卡顿检测
@@ -77,7 +79,7 @@
 * [一次立竿见影的启动时间优化](http://www.jianshu.com/p/c1734cbdf39b)
 * [iOS App 启动性能优化](https://zhuanlan.zhihu.com/p/28600469)
 * [iOS端技术 | iOS main()之前都发生了什么](https://mp.weixin.qq.com/s/L7ZiH8j22F4ZJmpZzGxXSA)
-* [WWDC 2017] App Startup Time: Past, Present, and Future](https://techblog.toutiao.com/2017/07/05/session413/)
+* [WWDC 2017 App Startup Time: Past, Present, and Future](https://techblog.toutiao.com/2017/07/05/session413/)
 * [A method of hook static initializers](http://everettjf.com/2017/02/06/a-method-of-hook-static-initializers/)
 
 ## APM：性能检测
