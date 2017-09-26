@@ -171,6 +171,7 @@
 * [趣探 Mach-O：FishHook 解析](http://www.jianshu.com/p/9e1f4d771e35) - (来源：Joy)
 * [XNU、dyld源码分析Mach-O和动态库的加载过程(上)](https://mp.weixin.qq.com/s/I60p2M-IHDmeUanDUkFdVw)
 * [XNU、dyld 源码分析，Mach-O 和动态库的加载过程 (下)](https://mp.weixin.qq.com/s/fdDPyjRkVf9AdWiikBagHg)
+* [dylib动态库加载过程分析](https://feicong.github.io/2017/01/14/dylib/)
 
 ## 动态代理（NSProxy）
 
