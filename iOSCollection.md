@@ -140,6 +140,7 @@
 * [网络诊断](https://github.com/Lede-Inc/LDNetDiagnoService_IOS)
 * [iOS监控-DNS劫持](http://www.jianshu.com/p/08f7146e045f)
 * [iOS网络请求优化之DNS映射](http://www.mrpeak.cn/ios/2016/01/22/dnsmapping)
+* [QQ空间在生产环境使用QUIC协议的经验](https://mp.weixin.qq.com/s/qD9-Xj0CEil0Wtwq5eiPTg)
 
 
 ## 性能优化
