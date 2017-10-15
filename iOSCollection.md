@@ -236,6 +236,12 @@
 * [即时通讯网](http://www.52im.net/)
 * [CocoaAsyncSocket、SRWebSocket 源码解析](http://www.jianshu.com/u/14431e509ae8)
 
+## atomic
+* [从一道网易面试题浅谈OC线程安全](http://www.jianshu.com/p/cec2a41aa0e7)
+* [atomic性能真的很差吗？](http://www.jianshu.com/p/15df680d510e)
+* [atomic 和 nonatomic 有什么区别？](http://www.jianshu.com/p/7288eacbb1a2)
+* [谈nonatomic非线程安全问题](http://www.jianshu.com/p/b075bfd67899)
+
 
 ## 推荐书单
 
