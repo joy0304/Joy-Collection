@@ -10,6 +10,7 @@
 * [从Mars的Xlog组件学习日志系统](http://www.jianshu.com/p/f53b4575d3ae)
 * [微信终端跨平台组件Mars介绍](https://futucocoa.github.io/2017-01-20-TencentWechatMarsIntroduction/)
 * [Mars -- Wiki ](https://github.com/Tencent/mars/wiki)
+* [NSLog效率低下的原因及尝试lldb断点打印Log](http://blog.sunnyxx.com/2014/04/22/objc_dig_nslog/)
 
 ## WebView 性能监控
 
@@ -62,6 +63,7 @@
 * [Handling unhandled exceptions and signals](http://www.cocoawithlove.com/2010/05/handling-unhandled-exceptions-and.html)
 * [iOS dSYM文件结构剖析](http://www.csdn.net/article/2015-08-04/2825369)
 * [iOS 如何获取 Mach-O 的 UUID](http://www.jianshu.com/p/9201d5e34eb6)
+* [正确区分Mach 异常、Unix 信号 和NSException 异常](https://wangdetong.github.io/2016/07/20/20160720Mach%E5%BC%82%E5%B8%B8/)
 
 ## 程序的启动与优化
 
@@ -216,6 +218,7 @@
 * [HTTP 2 的新特性你 get 了吗？](https://www.qcloud.com/community/article/541321?fromSource=gwzcw.93353.93353)
 * [HTTP/2探索第一篇——概念](https://www.qcloud.com/community/article/164816001481011799?fromSource=gwzcw.93320.93320.93320)
 * [WEB加速，协议先行](https://zhuanlan.zhihu.com/p/27938635?group_id=870372159967617024)
+* [从 HTTP2 到 QUIC——QQ 空间 Web 加速实践](http://ppt.geekbang.org/slide/show/1134)
 
 ## JavaScript 与 iOS 交互
 
