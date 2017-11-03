@@ -245,6 +245,14 @@
 * [atomic 和 nonatomic 有什么区别？](http://www.jianshu.com/p/7288eacbb1a2)
 * [谈nonatomic非线程安全问题](http://www.jianshu.com/p/b075bfd67899)
 
+## libffi 
+
+* [如何动态调用 C 函数](http://blog.cnbang.net/tech/3219/)
+* [libffi浅析](http://blog.csdn.net/ayu_ag/article/details/50706429)
+* [在 C 语言中调用不定参数的外部函数](http://www.jianshu.com/p/eb4fe09903fb)
+* [如何使用libffi库实现OC方法替换](http://www.jianshu.com/p/a1eb31799b9b)
+* [libffi](https://www.atmark-techno.com/~yashi/libffi.html#Simple-Example)
+
 
 ## 推荐书单
 
