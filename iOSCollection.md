@@ -10,7 +10,25 @@
 * [从Mars的Xlog组件学习日志系统](http://www.jianshu.com/p/f53b4575d3ae)
 * [微信终端跨平台组件Mars介绍](https://futucocoa.github.io/2017-01-20-TencentWechatMarsIntroduction/)
 * [Mars -- Wiki ](https://github.com/Tencent/mars/wiki)
+* [微信跨平台组件mars-xlog架构分析及迁移思路](https://zhuanlan.zhihu.com/p/25011775)
 * [NSLog效率低下的原因及尝试lldb断点打印Log](http://blog.sunnyxx.com/2014/04/22/objc_dig_nslog/)
+
+## IP 直连
+
+* [可能是最全的iOS端HttpDns集成方案](http://www.jianshu.com/p/cd4c1bf1fd5f)
+* [DNS污染方案调研](https://github.com/ChenYilong/iOSBlog/tree/master/Tips/DNS%E6%B1%A1%E6%9F%93%E6%96%B9%E6%A1%88%E8%B0%83%E7%A0%94)
+* [HTTPDNS 在 iOS 中的实践](http://nathanli.cn/2016/12/20/httpdns-%E5%9C%A8-ios-%E4%B8%AD%E7%9A%84%E5%AE%9E%E8%B7%B5/)
+* [移动解析HTTPDNS在App开发中实践总结](http://iosfly.com/2016/12/03/HTTPDNS/)
+* [也谈 HTTPS - HTTPDNS + HTTPS](https://blog.alswl.com/2016/11/https-1/)
+* [HTTPDNS域名解析场景下如何使用Cookie？](https://yq.aliyun.com/articles/64356)
+* [阿里云相关最佳实践](https://helpcdn.aliyun.com/document_detail/30143.html?spm=5176.7758278.6.562.Kfegul)
+
+## HTTPS  证书验证
+
+* [iOS 中 HTTPS 证书验证浅析](https://zhuanlan.zhihu.com/p/24920405)
+* [iOS 中对 HTTPS 证书链的验证](http://www.jianshu.com/p/31bcddf44b8d)
+* [正确使用AFNetworking的SSL保证网络安全](http://www.jianshu.com/p/4102b817ff2f)
+* [AFNetworking之于https认证](http://www.jianshu.com/p/a84237b07611)
 
 ## WebView 性能监控
 
