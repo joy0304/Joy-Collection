@@ -22,6 +22,7 @@
 * [也谈 HTTPS - HTTPDNS + HTTPS](https://blog.alswl.com/2016/11/https-1/)
 * [HTTPDNS域名解析场景下如何使用Cookie？](https://yq.aliyun.com/articles/64356)
 * [阿里云相关最佳实践](https://helpcdn.aliyun.com/document_detail/30143.html?spm=5176.7758278.6.562.Kfegul)
+* [Server Name Indication（SNI）](http://blog.csdn.net/makenothing/article/details/53292335)
 
 ## HTTPS  证书验证
 
