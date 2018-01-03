@@ -164,6 +164,7 @@
 * [iOS监控-DNS劫持](http://www.jianshu.com/p/08f7146e045f)
 * [iOS网络请求优化之DNS映射](http://www.mrpeak.cn/ios/2016/01/22/dnsmapping)
 * [QQ空间在生产环境使用QUIC协议的经验](https://mp.weixin.qq.com/s/qD9-Xj0CEil0Wtwq5eiPTg)
+* [美图HTTPS优化探索与实践](https://mp.weixin.qq.com/s/mRcz8o0usoqm_cEoGg9btg)
 
 
 ## 性能优化
@@ -196,6 +197,7 @@
 * [XNU、dyld源码分析Mach-O和动态库的加载过程(上)](https://mp.weixin.qq.com/s/I60p2M-IHDmeUanDUkFdVw)
 * [XNU、dyld 源码分析，Mach-O 和动态库的加载过程 (下)](https://mp.weixin.qq.com/s/fdDPyjRkVf9AdWiikBagHg)
 * [dylib动态库加载过程分析](https://feicong.github.io/2017/01/14/dylib/)
+* [巧用符号表 - 探求 fishhook 原理（一）](http://www.desgard.com/fishhook-1/)
 
 ## 动态代理（NSProxy）
 
@@ -210,6 +212,8 @@
 * [利用 WireShark 深入调试网络请求](http://www.jianshu.com/p/d1c30e33525d)
 * [使用 Wireshark 调试 HTTP/2 流量](https://imququ.com/post/http2-traffic-in-wireshark.html)
 * [获取NSURLResponse的HTTPVersion](http://www.th7.cn/Program/IOS/201701/1090816.shtml)
+* [移动端https抓包那些事--进阶篇](http://www.cnblogs.com/JDragons/p/7332324.html)
+* [Intercepting the App Store's Traffic on iOS](https://nabla-c0d3.github.io/blog/2013/08/20/intercepting-the-app-stores-traffic-on-ios/)
 
 ## 图像性能
 
