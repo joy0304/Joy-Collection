@@ -100,6 +100,7 @@
 * [阿里数据iOS端启动速度优化的一些经验](http://www.jianshu.com/p/f29b59f4c2b9)
 * [一次立竿见影的启动时间优化](http://www.jianshu.com/p/c1734cbdf39b)
 * [iOS App 启动性能优化](https://zhuanlan.zhihu.com/p/28600469)
+* [如何精确度量 iOS App 的启动时间](https://www.jianshu.com/p/c14987eee107)
 * [iOS端技术 | iOS main()之前都发生了什么](https://mp.weixin.qq.com/s/L7ZiH8j22F4ZJmpZzGxXSA)
 * [WWDC 2017 App Startup Time: Past, Present, and Future](https://techblog.toutiao.com/2017/07/05/session413/)
 * [A method of hook static initializers](http://everettjf.com/2017/02/06/a-method-of-hook-static-initializers/)
