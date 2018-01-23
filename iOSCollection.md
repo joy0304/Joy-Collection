@@ -122,7 +122,7 @@
 * [网易 APM 数据处理系统实践](http://www.infoq.com/cn/presentations/practice-of-netease-apm-data-processing-system?utm_campaign=rightbar_v2&utm_source=infoq&utm_medium=presentations_link&utm_content=link_text)
 * [蘑菇街 App 的稳定性与性能实践](http://pstatic.geekbang.org/pdf/5809d9ef9b45b.pdf?e=1491025393&token=eHNJKRTldoRsUX0uCP9M3icEhpbyh3VF9Nrk5UPM:lKVEa3b-uxMSKW75daZyi0p32aQ=)
 * [饿了么移动基础设施的建设](http://www.jianshu.com/p/9c1979ef2a70)
-
+* [ iOS 性能监控 SDK —— Wedjat（华狄特）开发过程的调研和整理](https://github.com/aozhimin/iOS-Monitor-Platform)
 
 ## APM 数据分析
 
