@@ -2,6 +2,12 @@
 
 * 资源会越来越多，不方便查找，您可以使用 `command F`来进行关键字查找
 
+## Out-Of-Memory
+
+* [腾讯 iOS 爆内存问题解决方案 OOMDetector](https://juejin.im/post/5a58f1a76fb9a01cab283392?utm_medium=ios&utm_source=weixinqun)
+* [iOS 内存 Jetsam 原理探究](http://satanwoo.github.io/2017/10/18/abort/)
+* [Reducing FOOMs in the Facebook iOS app](https://code.facebook.com/posts/1146930688654547/reducing-fooms-in-the-facebook-ios-app/)
+
 ## Xlog
 
 * [微信高性能线上日志系统xlog剖析](http://satanwoo.github.io/2017/07/30/xlog/)
@@ -279,18 +285,82 @@
 * [如何使用libffi库实现OC方法替换](http://www.jianshu.com/p/a1eb31799b9b)
 * [libffi](https://www.atmark-techno.com/~yashi/libffi.html#Simple-Example)
 
+## 直播相关
+
+* [分辨率、帧率和码率三者之间的关系](https://developer.qiniu.com/pili/kb/3636/streaming-VideoProfile)
+* [七牛直播云性能优化实践](https://zhuanlan.zhihu.com/p/23237201)
+* [视频云直播中的关键帧技术探秘](https://mp.weixin.qq.com/s?__biz=MzIzMzk2NDQyMw==&mid=2247486809&amp;idx=1&amp;sn=53b8370aa59e187589192e811579fac3&source=41#wechat_redirect)
+* [QQ 视频直播架构及原理](https://toutiao.io/posts/52gpw9/preview)
+* [映客直播iOS App 性能优化实践](http://blog.tingyun.com/web/article/detail/1144)
+* [移动直播技术秒开优化经验（含PPT）](https://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ%3Cmark%3E&mid=2653547042&idx=1&sn=26d8728548a6b5b657079eeab121e283&scene=1&srcid=0428msEitG9LJ3JaKGaRCEjg&from=groupmessage&isappinstalled=0#wechat_redirect)
+* [如何快速的开发一个完整的iOS直播app](https://www.jianshu.com/p/bd42bacbe4cc)
+
+## 其他资源站推荐
+
+* [Awesome iOS Resource：谨以此仓库献给那些和我一样坚守和奋战在一线的 iOS 开发者们](https://github.com/aozhimin/awesome-iOS-resource) - (aozhimin)
+* [🇨🇳 老司机 iOS 周报](https://github.com/SwiftOldDriver/iOS-Weekly)
+* [南峰子带队的 iOS 知识小集](https://github.com/southpeak/iOS-tech-set)
+
+## 面试题
+
+* [坚持完成这套学习手册，你就可以去 Google 面试了](http://geek.csdn.net/news/detail/107064#%E5%AF%86%E7%A0%81%E5%AD%A6)
+* [ 《招聘一个靠谱的 iOS》](https://github.com/ChenYilong/iOSInterviewQuestions)
+
+## iOS 技术栈和路线图
+
+* [iOS 开发技术栈与进阶](http://blog.cnbang.net/tech/3354/) —— (bang)
+* [iOS 软件安全工程师技能表](https://github.com/feicong/sec_skills) - （fei_cong）
 
 ## 推荐书单
 
+操作系统
+
 * 《深入解析Mac OS X & iOS操作系统》
 * 《深入理解计算机系统（第三版）》
-*  《高性能iOS应用开发》
-*  《iOS成长之路》
-*  《Objective-C高级编程 iOS与OS X多线程和内存管理》
+
+编译原理 & 汇编
+
 *  《编译系统透视：图解编译原理》
+*  《深入理解程序设计使用 Linux 汇编语言》
+*  《程序员的自我修养（带目录）》
+*  《编译原理－龙书 第二版》
+
+安全相关
+
+* 《图解密码技术 第三版》
+*  《macOS软件安全与逆向分析》
+* 《逆向工程权威指南上下册》
+* 《iOS应用安全攻防实战》
+* 《iOS应用逆向工程(第2版)》
+
+计算机网络
+
+*  《网络是怎样连接的 - 户根勤》
+*  《HTTPS 权威指南》
+*  《Web 性能权威指南》
+*  《HTTP/2 基础教程》
+
+iOS 开发
+
+*  《高性能 iOS 应用开发》
+*  《iOS 成长之路》
+*  《WWDC 17 内参》
+*  《Objective-C高级编程 iOS与OS X 多线程和内存管理》
+*  《Effective Objective-C》
 *  《iOS Application Security 》
 *  《Advanced Apple Debugging & Reverse_Engineering》
-*  《图解密码技术 第三版》
-*  《HTTPS 权威指南》
-*  《网络是怎样连接的 - 户根勤》
-*  《macOS软件安全与逆向分析》
+*  《LLVM Cookbook 中文版》
+
+C/C++ 相关
+
+* The C Programming Language, 2nd Edition(中文版)
+* C++  Primer 中文版第 5 版
+
+其他
+
+* Pro Git
+
+## 推荐视频
+
+* [iOS逆向与安全](http://mooc.study.163.com/course/2001233000?tid=2001319000#/info) - (刘培庆 Alone_Monkey)
+* [infoQ 历届大会演讲视频集锦](http://www.infoq.com/cn/presentations)
