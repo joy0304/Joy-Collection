@@ -1,6 +1,6 @@
-| 每日专栏 | 维护者 |大前端专题合辑  |[iOS 专题合辑](https://github.com/joy0304/Joy-Collection/blob/master/iOSCollection.md)|终生软实力| [数据科学](https://github.com/joy0304/Joy-Collection/blob/master/DataAnalysis.md) |
+| 每日专栏 | 维护者 |大前端专题合辑  |[iOS 专题合辑](https://github.com/joy0304/Joy-Collection/blob/master/iOSCollection.md)|[终生软实力](https://github.com/joy0304/Joy-Collection/blob/master/softPower.md)| [数据科学](https://github.com/joy0304/Joy-Collection/blob/master/DataAnalysis.md) |
 | ------------- |-------------| -----| -----| -----|-----|
-| [简书-移动前沿](http://www.jianshu.com/c/5aac963ca52d)|[@Joy__xx](http://weibo.com/5419850564/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1)      | ＊＊＊＊＊＊＊＊＊＊＊|＊＊＊＊＊＊＊＊|＊＊＊＊＊＊＊＊＊|＊＊＊＊＊|
+| [简书-移动前沿](http://www.jianshu.com/c/5aac963ca52d)|[@Joy__xx](http://weibo.com/5419850564/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1)      | ＊＊＊＊＊＊＊＊＊＊|＊＊＊＊＊＊＊＊|＊＊＊＊＊＊＊＊＊|＊＊＊＊＊|
 
 
 -----
