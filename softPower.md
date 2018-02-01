@@ -1,4 +1,4 @@
-## MarkDown 排版
+## Markdown 排版
 
 * [Markdown 语法说明 (简体中文版) ](http://wowubuntu.com/markdown/index.html)
 * [Chinese Copywriting Guidelines：中文文案排版指北](https://github.com/mzlogin/chinese-copywriting-guidelines)
