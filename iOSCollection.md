@@ -8,7 +8,7 @@
 * [iOS 内存 Jetsam 原理探究](http://satanwoo.github.io/2017/10/18/abort/)
 * [Reducing FOOMs in the Facebook iOS app](https://code.facebook.com/posts/1146930688654547/reducing-fooms-in-the-facebook-ios-app/)
 
-## Xlog
+## 日志系统
 
 * [微信高性能线上日志系统xlog剖析](http://satanwoo.github.io/2017/07/30/xlog/)
 * [【Dev Club 分享】微信mars 的高性能日志模块 xlog](https://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg%3D%3D&mid=2653578220&idx=3&sn=5691bdd82ae0715ab12fd6b849f74aee&chksm=84b3b1ebb3c438fddf86bf74e232fa14222932ebd6d6439bed04ad17d5e64e9270d4ab460f64&scene=4)
@@ -18,6 +18,7 @@
 * [Mars -- Wiki ](https://github.com/Tencent/mars/wiki)
 * [微信跨平台组件mars-xlog架构分析及迁移思路](https://zhuanlan.zhihu.com/p/25011775)
 * [NSLog效率低下的原因及尝试lldb断点打印Log](http://blog.sunnyxx.com/2014/04/22/objc_dig_nslog/)
+* [Logan：美团点评移动端基础日志库揭秘](https://mp.weixin.qq.com/s/ojUZjT4YhUWZ3jh37UtJmg)
 
 ## IP 直连
 
