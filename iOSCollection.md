@@ -285,6 +285,7 @@
 * [在 C 语言中调用不定参数的外部函数](http://www.jianshu.com/p/eb4fe09903fb)
 * [如何使用libffi库实现OC方法替换](http://www.jianshu.com/p/a1eb31799b9b)
 * [libffi](https://www.atmark-techno.com/~yashi/libffi.html#Simple-Example)
+* [Hook Objective-C Block with Libffi](http://yulingtianxia.com/blog/2018/02/28/Hook-Objective-C-Block-with-Libffi/)
 
 ## 直播相关
 
