@@ -7,6 +7,8 @@
 * [腾讯 iOS 爆内存问题解决方案 OOMDetector](https://juejin.im/post/5a58f1a76fb9a01cab283392?utm_medium=ios&utm_source=weixinqun)
 * [iOS 内存 Jetsam 原理探究](http://satanwoo.github.io/2017/10/18/abort/)
 * [Reducing FOOMs in the Facebook iOS app](https://code.facebook.com/posts/1146930688654547/reducing-fooms-in-the-facebook-ios-app/)
+* [OOM探究：XNU 内存状态管理](https://www.jianshu.com/p/4458700a8ba8)
+* [iOS Out-Of-Memory 原理阐述及方案调研](https://www.jianshu.com/p/2a283df2e839)
 
 ## 日志系统
 
@@ -49,6 +51,7 @@
 
 * [Method Swizzling的各种姿势](http://www.tanhao.me/code/160723.html/)
 * [Objective-C Method Swizzling 的最佳实践](http://blog.leichunfeng.com/blog/2015/06/14/objective-c-method-swizzling-best-practice/)
+* [有关Swizzling的一个问题](https://www.jianshu.com/p/d5c3c2f236b8)
 
 ## 获取每个方法的执行时间
 
@@ -111,6 +114,7 @@
 * [iOS端技术 | iOS main()之前都发生了什么](https://mp.weixin.qq.com/s/L7ZiH8j22F4ZJmpZzGxXSA)
 * [WWDC 2017 App Startup Time: Past, Present, and Future](https://techblog.toutiao.com/2017/07/05/session413/)
 * [A method of hook static initializers](http://everettjf.com/2017/02/06/a-method-of-hook-static-initializers/)
+* [基于 Runloop 无侵入采集 App 首屏渲染时间](https://github.com/JunyiXie/AppStartTime)
 
 ## APM：性能检测
 
@@ -195,8 +199,9 @@
 * [优雅的开发Swift和Objective C混编的Framework](http://blog.csdn.net/hello_hwc/article/details/58320433) - (来源：LeoMobileDeveloper)
 * [使用CocoaPods开发并打包静态库](http://www.cnblogs.com/brycezhang/p/4117180.html)
 *  [基于 CocoaPods 进行 iOS 开发](https://blog.dianqk.org/2017/05/01/dev-on-pod/)
-## Mach-O 
 
+
+## Mach-O 
 * [趣探 Mach-O：文件格式分析](http://www.jianshu.com/p/54d842db3f69) - (来源：Joy)
 * [Mach-O 的动态连接](http://turingh.github.io/2016/03/10/Mach-O%E7%9A%84%E5%8A%A8%E6%80%81%E9%93%BE%E6%8E%A5/) -（来源：mrh）
 * [动态修改 C 语言函数的实现](http://www.jianshu.com/p/625a61dfe039) -（来源：Draveness）
@@ -296,6 +301,9 @@
 * [映客直播iOS App 性能优化实践](http://blog.tingyun.com/web/article/detail/1144)
 * [移动直播技术秒开优化经验（含PPT）](https://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ%3Cmark%3E&mid=2653547042&idx=1&sn=26d8728548a6b5b657079eeab121e283&scene=1&srcid=0428msEitG9LJ3JaKGaRCEjg&from=groupmessage&isappinstalled=0#wechat_redirect)
 * [如何快速的开发一个完整的iOS直播app](https://www.jianshu.com/p/bd42bacbe4cc)
+
+## 独立开发
+* [23 个利器 - 独立开发好工具](https://xiaozhuanlan.com/topic/9261834750)
 
 ## 其他资源站推荐
 
