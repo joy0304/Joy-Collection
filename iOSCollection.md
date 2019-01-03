@@ -1,6 +1,7 @@
 ## Tips
 
 * 资源会越来越多，不方便查找，您可以使用 `command F`来进行关键字查找
+* 如果链接失效，可以直接 google 文章名称，一般都可以找到原文
 
 ## Out-Of-Memory
 
@@ -9,6 +10,14 @@
 * [Reducing FOOMs in the Facebook iOS app](https://code.facebook.com/posts/1146930688654547/reducing-fooms-in-the-facebook-ios-app/)
 * [OOM探究：XNU 内存状态管理](https://www.jianshu.com/p/4458700a8ba8)
 * [iOS Out-Of-Memory 原理阐述及方案调研](https://www.jianshu.com/p/2a283df2e839)
+
+## 内存管理
+* [正确地获取 iOS 应用占用的内存](http://www.samirchen.com/ios-app-memory-usage/)
+* [iOS内存管理和malloc源码解读](https://yq.aliyun.com/articles/3065)
+* [小试Xcode逆向：app内存监控原理初探](http://ddrccw.github.io/2017/12/30/2017-12-30-reverse-xcode-with-lldb-and-hopper-disassembler/)
+* [深入理解Autorelease Pool](https://mp.weixin.qq.com/s/mo29ReQTVQM5dFfOv95HKQ)
+* [自动释放池的前世今生 ---- 深入解析 autoreleasepool](https://draveness.me/autoreleasepool)
+
 
 ## 日志系统
 
@@ -301,6 +310,71 @@
 * [映客直播iOS App 性能优化实践](http://blog.tingyun.com/web/article/detail/1144)
 * [移动直播技术秒开优化经验（含PPT）](https://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ%3Cmark%3E&mid=2653547042&idx=1&sn=26d8728548a6b5b657079eeab121e283&scene=1&srcid=0428msEitG9LJ3JaKGaRCEjg&from=groupmessage&isappinstalled=0#wechat_redirect)
 * [如何快速的开发一个完整的iOS直播app](https://www.jianshu.com/p/bd42bacbe4cc)
+
+## Reveal
+* [使用Reveal分析别人App的UI布局](http://chaosky.me/2016/07/27/iOS-Security-Defense-Reveal/)
+
+## Cycript
+* [Shortcut to find the ViewController’s class name on the keyWindow](http://iosre.com/t/shortcut-to-find-the-viewcontrollers-class-name-on-the-keywindow/2834)
+* [Cycript Manual](http://www.cycript.org/manual/)
+* [Cycript脚本语言使用与实战](https://www.jianshu.com/p/7c41b03c9eb3)
+
+## Tweak
+* [Logos](http://iphonedevwiki.net/index.php/Logos)
+* [Hook 原理之 CydiaSubstrate（一）：MSHookMessageEx](https://amywushu.github.io/2017/03/07/%E9%80%86%E5%90%91%E7%9F%A5%E8%AF%86-Hook-%E5%8E%9F%E7%90%86%E4%B9%8B-CydiaSubstrate%EF%BC%88%E4%B8%80%EF%BC%89%EF%BC%9AMSHookMessageEx.html)
+* [[原创]逆向角度分析 CydiaSubstrate Hook 原理](https://bbs.pediy.com/thread-185014.htm)
+
+## 字符串加密
+* [[原创]iOS加固浅谈之字符串加密	](https://bbs.pediy.com/thread-217991.htm)
+* [自己动手实现基于llvm的字符串加密](http://bbs.iosre.com/t/llvm/10610)
+* [iOS混淆-ollvm中添加对String的混淆](http://fighting300.com/2017/09/18/ollvm-with-StringObfuscate/)
+* [为OLLVM添加字符串混淆功能](https://mp.weixin.qq.com/s/rORMNBExWVyGvWMFvYTXPw)
+* [使用 libclang 实现 iOS 代码中的明文加密](https://danleechina.github.io/use-libclang-in-xcode/)
+* [iOS代码混淆](http://xelz.info/blog/2016/11/20/ios-code-obfuscation/)
+* [一个用于代码混淆和字符串加密的Mac小Demo](https://github.com/CoderMJLee/MJCodeObfuscation)
+
+## 方法混淆
+* [使用 libclang 实现 iOS 代码中的明文加密](https://danleechina.github.io/use-libclang-in-xcode/)
+* [mixplaintext](https://github.com/danleechina/mixplaintext)
+* [ios-class-guard](https://github.com/Polidea/ios-class-guard)
+* [ObjC的符号/名称混淆的坑以及如何手动破坏符号表](http://bbs.iosre.com/t/objc/11823)
+* [PPiOS-Rename](https://github.com/preemptive/PPiOS-Rename)
+
+## 代码混淆
+* [基于LLVM IR的源代码混淆的实现](https://bbs.pediy.com/thread-211717.htm)
+* [LLVM Obfuscator https://keybase.io/team/hikari](https://github.com/HikariObfuscator/Hikari)
+* [https://github.com/HikariObfuscator/Hikari](https://zhuanlan.zhihu.com/p/27617441)
+* [[翻译]LLVM代码混淆分析及逻辑还原](https://bbs.pediy.com/thread-224484.htm)
+* [来自YSRC：孤挺花字符串混淆功能分析](https://zhuanlan.zhihu.com/p/27696457)
+* [iOS混淆--OLLVM在iOS中的实践](http://fighting300.com/2017/09/07/ollvm-in-iOS/)
+
+## 反调试
+* [阿里聚安全iOS Anti-Debug分享](https://pediy.com/thread-195480.htm)
+* [关于反调试&反反调试那些事](http://www.alonemonkey.com/2017/05/25/antiantidebug/)
+* [反调试及绕过](http://jmpews.github.io/2017/08/09/darwin/%E5%8F%8D%E8%B0%83%E8%AF%95%E5%8F%8A%E7%BB%95%E8%BF%87/)
+* [越狱开发4-越狱开发防护与破解](http://luoxianming.cn/2016/11/15/yueyutools3prevention/)
+* [Kernel Syscalls](https://www.theiphonewiki.com/wiki/Kernel_Syscalls)
+* [使用ptrace跟踪进程](https://www.cnblogs.com/mooreliu/p/4850017.html)
+* [防止tweak依附，App有高招；破解App保护，tweak留一手](http://bbs.iosre.com/t/tweak-app-app-tweak/438)
+* [对 iOS app 进行安全加固](https://danleechina.github.io/ios-app-security-reinforce/)
+
+## OLLVM
+* [iOS混淆--OLLVM在iOS中的实践](http://fighting300.com/2017/09/07/ollvm-in-iOS/)
+* [控制流平坦化的实现	](https://bbs.pediy.com/thread-209203.htm)
+* [基于LLVM IR的源代码混淆的实现	](https://bbs.pediy.com/thread-211717.htm)
+* [反混淆：恢复被OLLVM保护的程序](https://www.freebuf.com/column/144896.html)
+* [利用符号执行去除控制流平坦化](https://security.tencent.com/index.php/blog/msg/112)
+* [Deobfuscation: recovering an OLLVM-protected program](https://blog.quarkslab.com/deobfuscation-recovering-an-ollvm-protected-program.html)
+* [LLVM代码混淆分析及逻辑还原](https://open.appscan.io/article-633.html)
+* [ollvm源码分析](http://www.ench4nt3r.com/2018/02/26/post/)
+* [代码混淆——控制流扁平的开源实践和改进](http://penguin-wenyang.wang/2017/11/28/%E4%BB%A3%E7%A0%81%E6%B7%B7%E6%B7%86%E2%80%94%E2%80%94%E6%8E%A7%E5%88%B6%E6%B5%81%E6%89%81%E5%B9%B3%E7%9A%84%E5%BC%80%E6%BA%90%E5%AE%9E%E8%B7%B5%E5%92%8C%E6%94%B9%E8%BF%9B/)
+
+
+## LLVM Pass
+* [Writing an LLVM Pass](http://llvm.org/docs/WritingAnLLVMPass.html#the-modulepass-class)
+* [0x01 Xcode调试一个LLVM Pass](http://www.alonemonkey.com/2017/06/02/writing-an-llvm-pass/)
+* [LLVM Pass从添加到执行的过程](http://penguin-wenyang.wang/2018/04/14/LLVM-Pass-add-process/)
+
 
 ## 独立开发
 * [23 个利器 - 独立开发好工具](https://xiaozhuanlan.com/topic/9261834750)
