@@ -11,3 +11,6 @@
 ## 技术变现
 
 * [左耳朵耗子：程序员增加收入实用指南](https://mp.weixin.qq.com/s/ZcxxugWNpzL_WHT8GfVGZQ)
+
+## 公关
+* [徐小平：创业的终点，就是品牌的建立和扩张](https://mp.weixin.qq.com/s/KalKlXewQfzSssJrf_eW5Q)
